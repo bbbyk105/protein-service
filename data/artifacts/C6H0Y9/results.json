@@ -1,0 +1,59 @@
+{
+  "uniprot_id": "C6H0Y9",
+  "method": "X-ray",
+  "seq_ratio": 20,
+  "inputs": {
+    "pdb_cifs": [
+      "data/pdb/6NEL.cif",
+      "data/pdb/6NEM.cif",
+      "data/pdb/6V53.cif",
+      "data/pdb/6V56.cif",
+      "data/pdb/6V6X.cif",
+      "data/pdb/6V9E.cif",
+      "data/pdb/6VBR.cif",
+      "data/pdb/6VG9.cif",
+      "data/pdb/6VIV.cif",
+      "data/pdb/6VJH.cif",
+      "data/pdb/6VL3.cif",
+      "data/pdb/6VLL.cif",
+      "data/pdb/6W7A.cif",
+      "data/pdb/6WHM.cif",
+      "data/pdb/6WIJ.cif",
+      "data/pdb/6WJ4.cif",
+      "data/pdb/6WS3.cif",
+      "data/pdb/7K77.cif",
+      "data/pdb/7K87.cif",
+      "data/pdb/7KAF.cif",
+      "data/pdb/7KNR.cif",
+      "data/pdb/7KNY.cif",
+      "data/pdb/7KOP.cif",
+      "data/pdb/7LP7.cif",
+      "data/pdb/7LP8.cif",
+      "data/pdb/7LW6.cif",
+      "data/pdb/7UMR.cif",
+      "data/pdb/7UUH.cif",
+      "data/pdb/8DIP.cif",
+      "data/pdb/8DPJ.cif",
+      "data/pdb/8DQS.cif",
+      "data/pdb/8DTW.cif",
+      "data/pdb/8DVO.cif",
+      "data/pdb/8E1Q.cif",
+      "data/pdb/8E21.cif",
+      "data/pdb/8E4S.cif",
+      "data/pdb/8EDZ.cif"
+    ],
+    "alphafold_models": []
+  },
+  "kpi": {
+    "cis_count": 1,
+    "cis_per_length_pct": null,
+    "avg_distance_score": null
+  },
+  "artifacts": {
+    "results_json": "data/artifacts/C6H0Y9/results.json",
+    "cis_csv": "data/artifacts/C6H0Y9/cis.csv",
+    "distance_csv": "data/artifacts/C6H0Y9/distance.csv",
+    "heatmap_png": null
+  },
+  "ts": "2025-10-24T09:08:40.755343Z"
+}

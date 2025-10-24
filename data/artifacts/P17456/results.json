@@ -1,0 +1,21 @@
+{
+  "uniprot_id": "P17456",
+  "method": "X-ray",
+  "seq_ratio": 20,
+  "inputs": {
+    "pdb_cifs": [],
+    "alphafold_models": []
+  },
+  "kpi": {
+    "cis_count": 1,
+    "cis_per_length_pct": null,
+    "avg_distance_score": null
+  },
+  "artifacts": {
+    "results_json": "data/artifacts/P17456/results.json",
+    "cis_csv": "data/artifacts/P17456/cis.csv",
+    "distance_csv": "data/artifacts/P17456/distance.csv",
+    "heatmap_png": null
+  },
+  "ts": "2025-10-24T09:08:15.065761Z"
+}
